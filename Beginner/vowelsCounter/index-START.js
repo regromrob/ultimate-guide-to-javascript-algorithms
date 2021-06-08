@@ -5,7 +5,7 @@ e.g vowelsCounter('anehizxcv') // will return 3
 
 
 // declared a constant "Vowels" 
-const Vowels = ['a','e', 'i', 'o', 'u']
+const vowels = ['a','e', 'i', 'o', 'u']
 function vowelsCounter(text) {
     let counter =0
 
