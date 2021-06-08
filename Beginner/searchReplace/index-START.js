@@ -31,3 +31,5 @@ function searchReplace(str, word, newWord){
 //Results: From the result, we notice that the faster solution is the first approach where we simply replace the word using **.replace()** ,while the regular expression method is approximately 72% slower.
 
 //practical use: "Search and Replace" finds it's application mostly in word processing applications where a user may need to manipulate content by searching out and replacing every occurrence of a certain word. It is also a valid coding interview challenge.
+
+module.exports = searchReplace
